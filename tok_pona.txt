@@ -7,6 +7,7 @@ when that results in one consonant, /ʏ/ <y> is added on.
 -ma suffix is added on wan, tu to make 7 and 8
 -sa suffix is added on wan, tu to make 9 and 0
 (the numbers are formed digit by digit, eg: 54 = wansu-tumu)
+ly (li) and e are prefixes
 
 i//_#
 /y/#C_#
@@ -20,7 +21,7 @@ anpa → anpa
 ante → ante
 anu → anu
 awen → awen
-e → e
+e → e-
 en → en
 esun → esun
 ijo → ijo
@@ -50,7 +51,7 @@ laso → laso
 lawa → lawa
 len → len
 lete → lete
-li → ly
+li → ly-
 lili → lil
 linja → linja
 lipu → lipu
@@ -131,3 +132,8 @@ waso → waso
 wawa → wawa
 weka → weka
 wile → wile
+
+EXAMPLE
+my jo ekil.
+ona lypon lylil
+my moku lil ekil lil.
