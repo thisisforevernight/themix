@@ -128,6 +128,6 @@ weka
 wyle
 
 EXAMPLE
-mi jo e kyli.
+mi jo y kyli.
 ona li pona li lyli.
-mi mokulyli e kylylyli.
+mi mokulyli y kylylyli.
