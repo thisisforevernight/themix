@@ -7,6 +7,7 @@ pi becomes an infix <py>
 consonants at the start of words become voiced when they are followed by a or e
 li becomes -(l)i
 dipthong ai and ei 
+the three syllable words have their last syllable dropped (except for dokbona)
 
 p/b/#_a
 p/b/#_e
@@ -18,7 +19,7 @@ k/g/#_e
 a
 akes
 ala
-alasa
+alas\
 al
 anpa
 ante
@@ -36,18 +37,18 @@ jan
 jelo
 jo
 gala
-galama
+galam
 gama
 gas
 gen
-gepeken
+gepe
 kyli
 kyn
 ko
 kon
 kule
 kute
-kulupu
+kulu
 l(y)-
 lape
 laso
@@ -84,18 +85,19 @@ ni
 nymi
 noka
 o
+ok
 oko
 olyn
 ona
 open
-bakala
+baka
 bali
-balysa
+baly
 ban
 bana
 pi
 pylyn
-pymeja
+pyme
 pyni
 pybi
 poka
@@ -106,12 +108,12 @@ seli
 selo
 seme
 sewi
-syjelo
+syje
 syge
 syn
 syna
 synpyn
-sydelen
+syde
 sona
 sowel
 sul
@@ -128,7 +130,7 @@ tomo
 tu
 unpa
 uta
-utala
+utal
 walo
 wan
 waso
@@ -141,3 +143,7 @@ EXAMPLE
 mi jogy kyli
 onai ponai lyli
 mi mokulyligy kylilyli
+
+new words:
+dokbona - this language
+ok - block
