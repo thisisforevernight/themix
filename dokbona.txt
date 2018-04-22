@@ -19,7 +19,7 @@ k/g/#_e
 a
 akes
 ala
-alas\
+alas
 al
 anpa
 ante
@@ -125,6 +125,7 @@ daso
 dawa
 delo
 denpo
+dokbona
 toki
 tomo
 tu
